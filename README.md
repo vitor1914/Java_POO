@@ -13,7 +13,7 @@ Este é um projeto Java orientado a objetos que demonstra conceitos de programa�
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/projeto-java-oop.git
+   https://github.com/vitor1914/Java_POO.git
    ```
 
 2. Abra o projeto em sua IDE.
